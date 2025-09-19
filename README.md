@@ -2,7 +2,7 @@
 
 **DATE:**19/9/2025
 
-**NAME:** DAnish Samuel M
+**NAME:** Danish Samuel M
 
 **ROLL NO:**212224040057
 
