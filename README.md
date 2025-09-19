@@ -354,7 +354,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 ```
 ## Output screen shots of Serial port utility   :
- 
+
+
+
  
  ![WhatsApp Image 2025-09-18 at 20 08 19_acad6ccf](https://github.com/user-attachments/assets/e72e1a08-4c85-42e9-a583-f3db3dd28364)
 
