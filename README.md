@@ -91,7 +91,7 @@ UART transmits and receives data asynchronously, meaning there is no shared cloc
 
 ## STM 32 CUBE PROGRAM :
 
-``
+```
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -352,14 +352,14 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
+
+
 ```
 ## Output screen shots of Serial port utility   :
 
 
 
- 
- ![WhatsApp Image 2025-09-18 at 20 08 19_acad6ccf](https://github.com/user-attachments/assets/e72e1a08-4c85-42e9-a583-f3db3dd28364)
+ ![WhatsApp Image 2025-09-18 at 20 08 19_acad6ccf](https://github.com/user-attachments/assets/ba54dc02-fbba-40ad-abb5-8090c23a867d)
 
- 
 ## Result :
 The IoT development board was successfully interfaced, and the USART was configured to transmit strings. The transmitted data was verified using a serial monitor, confirming proper communication.
